@@ -1,0 +1,3 @@
+GAN or generative adversarial network is a framework where two neural networks: Generator and Discriminator tries to win over each other in a game. Generator tries to generate fake samples and tries to fool discriminator by forcing it to recognise the fake sample as the real one. On the other hand, the discriminator tries to differentiate between the real images with fake one. Doing this process, when both of the neural network backpropagates, they try to reach an optimal point where the generated image is kind of similar to the real ones.  
+
+In this repo, I will try to add all the notebooks that were part of my learning process. I mostly got my lessons from this YouTube channel: https://www.youtube.com/playlist?list=PLv8Cp2NvcY8AbK0RNZGeQFEPESqCzHQvj.  
